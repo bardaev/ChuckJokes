@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ChuckJokes</string>
+    <string name="jokes">Jokes</string>
+    <string name="web">Web</string>
+    <string name="reload">RELOAD</string>
+    <string name="count">Count</string>
+</resources>
